@@ -14,12 +14,12 @@ Actual Rendered Images of final donut product:<br>
 
 ### JavaScript Raytracer:
 Output for the walls are always random so rendering the images always changes for the user.<br>
-<img src="javascript_raytracer/raytracer_image.png" width="800">
+
+<img src="javascript_raytracer/raytracer_image.PNG" width="800">
 
 ### Other Renders
 Yoshi:<br>
-<img src="other_renders/Yoshi_render.png" width="500">
+<img src="other_renders/Yoshi_render.PNG" width="500">
 
 <br>Pikachu:<br>
-<img src="other_renders/Pikachu_render.png" width="500">
-
+<img src="other_renders/Pikachu_render.PNG" width="500">
